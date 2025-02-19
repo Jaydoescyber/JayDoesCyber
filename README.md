@@ -58,7 +58,7 @@ My journey in various professions and a passion for computer science has led me 
 </div>
 
 ## Projects
-- Apply filters to SQL queries
-- SOC Automation Project
-- File permissions
-- Detection Lab
+- Detection Lab - SIEM and Threat Hunting
+- SOC Automation Project - Security Orchestration & Response
+- SQL Security Analysis - Investigating Security Incidents with SQL
+- Linux File Security - Managing Secure File Permissions
