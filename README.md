@@ -21,7 +21,7 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 | File System Security & Permissions | <a href="https://github.com/Jaydoescyber/File-Permissions-in-Linux">Linux File Security Lab<a/>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +44,7 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide certifications that you have obtained - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
