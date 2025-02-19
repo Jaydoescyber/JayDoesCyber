@@ -17,7 +17,7 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| SQL for Security Investigations | <a href="https://github.com/Jaydoescyber/Apply-Filters-to-SQL-Queries">SQL Security Analysis</a>|
+| SQL for Security Investigations | <a href="https://github.com/Jaydoescyber/Apply-Filters-to-SQL-Queries">SQL Queries Filtering Lab</a>|
 | File System Security & Permissions | <a href="https://github.com/Jaydoescyber/File-Permissions-in-Linux">Linux File Security<a/>|
 
 ## Tools
