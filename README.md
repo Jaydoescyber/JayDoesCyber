@@ -58,4 +58,4 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 - SOC Automation Project - Security Orchestration & Response
 - SQL Security Analysis - Investigating Security Incidents with SQL
 - Linux File Security - Managing Secure File Permissions
-- Virtul Machine - VirtualBox, Ubunto & Kali-linux
+- Virtual Machine - VirtualBox, Ubunto & Kali-linux
