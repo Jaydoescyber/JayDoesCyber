@@ -56,5 +56,7 @@ My journey in various professions and a passion for computer science has led me 
 </div>
 
 ## Projects
-- Detection Lab
+- Apply filters to SQL queries
 - SOC Automation Project
+- File permissions
+- Detection Lab
