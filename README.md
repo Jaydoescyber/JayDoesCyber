@@ -1,5 +1,5 @@
 # Hello, I'm Jeremiah
-<a href="https://linkedin.com/jeremiahdelarosa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jeremiahdelarosa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity enthusiast with a passion for securing digital environments and analyzing threats. My goal is to transition into a Security Operations Center (SOC) as a Tier 1 Analyst.
 
