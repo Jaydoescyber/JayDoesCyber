@@ -11,17 +11,16 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Detection Lab (WIP)|
+| Network Traffic Monitoring and Attack Detection | Detection Lab (WIP)|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab (WIP)|
+| Incident Response Planning and Execution      | SOC Automation Lab (WIP)|
+| Case Management with TheHive                  | SOC Automation Lab (WIP)|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab (WIP)|
 | SQL for Security Investigations | <a href="https://github.com/Jaydoescyber/Apply-Filters-to-SQL-Queries">SQL Queries Filtering Lab</a>|
 | File System Security & Permissions | <a href="https://github.com/Jaydoescyber/File-Permissions-in-Linux">Linux File Security Lab<a/>|
 
 ## Tools
-[Provide tools and break them down into categories - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,9 +43,13 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained - Remove this afterwards]]
+
 <div>
 <img src="https://github.com/user-attachments/assets/6686010e-3606-4905-8fff-f4a3450dbd72" />
+</div>
+
+ ## Currently Working Towards   
+<div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
