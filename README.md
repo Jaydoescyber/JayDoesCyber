@@ -46,6 +46,7 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 ## Certifications
 [Provide certifications that you have obtained - Remove this afterwards]]
 <div>
+<img src="https://github.com/user-attachments/assets/6686010e-3606-4905-8fff-f4a3450dbd72" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
