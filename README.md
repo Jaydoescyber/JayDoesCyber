@@ -45,7 +45,7 @@ I aim to apply my cybersecurity skills in a professional SOC environment, focusi
 ## Certifications
 
 <div>
-<a img src="https://github.com/user-attachments/assets/6686010e-3606-4905-8fff-f4a3450dbd72" >< href="https://www.coursera.org/professional-certificates/google-cybersecurity /a>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" ><img src="https://github.com/user-attachments/assets/6686010e-3606-4905-8fff-f4a3450dbd72" /a>
 </div>
 
  ## Currently Working Towards   
